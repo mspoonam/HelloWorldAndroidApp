@@ -3,7 +3,7 @@ package com.example.sanketb.myapplication;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-// MainActvoty 
+// MainActvity Class  
 
 public class MainActivity extends AppCompatActivity {
 
