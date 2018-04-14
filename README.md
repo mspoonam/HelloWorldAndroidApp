@@ -5,3 +5,6 @@ Add SK path to
 Jenkings - Manage Jenkins - Configure PAth - Envirnoment variblae 
 ANDROID_HOME
 /Users/poonampandey/Library/Android/sdk
+
+
+again nothing 
