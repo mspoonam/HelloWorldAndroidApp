@@ -13,10 +13,10 @@
         android:text="
 Name - Poonam Panday
 
-Github - mspoonam
-LinkedIn - https://www.linkedin.com/in/poonam-pandey-05/
-Twitter - @mspoonampandey
-Instagram - poonam0511
+\nGithub - mspoonam
+\nLinkedIn - https://www.linkedin.com/in/poonam-pandey-05/
+\nTwitter - @mspoonampandey
+\nInstagram - poonam0511
 
 "
         app:layout_constraintBottom_toBottomOf="parent"
