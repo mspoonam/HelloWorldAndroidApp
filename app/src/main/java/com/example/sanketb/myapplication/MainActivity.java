@@ -32,7 +32,7 @@ public class MainActivity extends AppCompatActivity {
     public void onTwitter(View view){
         Log.d("@poonam inside onGithub", "onGithub: Check if button clicked or not");
         Intent intent = new Intent(getApplicationContext(),WebViewActivity.class);
-        intent.putExtra("keyName", "https://twitter.com/MsPoonamPandey");
+        intent.putExtra("keyName", "https://twitter.com/mpoonampanday");
         startActivity(intent);
     }
 
