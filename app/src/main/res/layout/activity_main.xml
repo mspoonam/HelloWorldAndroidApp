@@ -20,7 +20,7 @@
         android:layout_marginStart="1dp"
         android:layout_marginTop="10dp"
         android:gravity="center_vertical"
-        android:text="Name - Poonam Panday"
+        android:text="Name - Poonam , App Version - 0.3 "
 
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
