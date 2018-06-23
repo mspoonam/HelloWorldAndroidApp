@@ -20,7 +20,7 @@
         android:layout_marginStart="1dp"
         android:layout_marginTop="10dp"
         android:gravity="center_vertical"
-        android:text="Name - Poonam , App Version - 0.3 "
+        android:text="Name - Poonam , App Version - 0.5 "
 
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
@@ -46,6 +46,7 @@
         android:layout_marginTop="50dp"
         android:text="LinkedIn"
         android:onClick="onLinkedIn"
+        android:visibility="gone"
         app:layout_constraintTop_toBottomOf="@+id/github"
         tools:layout_editor_absoluteX="148dp" />
 
